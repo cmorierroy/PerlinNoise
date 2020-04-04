@@ -3,5 +3,8 @@ Implementing procedural terrain generation with Perlin noise in Unity following 
 
 https://www.youtube.com/watch?v=wbpMiKiSKm8&list=PLFt_AvWsXl0eBW2EiBtl_sxmDtSgZBxB3&index=1
 
-##Updates
+## TO-DO:
+-Remove unused standard assets (takes up lots of space).
+
+## Updates
 April 4, 2020: Just added first person character movement. Currently on tutorial 14/21.
