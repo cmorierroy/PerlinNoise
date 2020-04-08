@@ -8,4 +8,5 @@ https://www.youtube.com/watch?v=wbpMiKiSKm8&list=PLFt_AvWsXl0eBW2EiBtl_sxmDtSgZB
 
 ## Updates
 April 4, 2020: Just added first person character movement. Currently on tutorial 14/21. <br>
-April 5, 2020: Added flatshading option. Tutorial 15/21.
+April 5, 2020: Added flatshading option. Tutorial 15/21. <br>
+April 6, 2020: Finished episode 15 (prepping for custom texture shader).
