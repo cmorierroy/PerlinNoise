@@ -68,6 +68,10 @@
     <Compile Include="Assets\SampleScenes\Scripts\ParticleSceneControls.cs" />
     <Compile Include="Assets\SampleScenes\Scripts\PlaceTargetWithMouse.cs" />
     <Compile Include="Assets\SampleScenes\Scripts\SlowMoButton.cs" />
+    <Compile Include="Assets\Scripts\Data\NoiseData.cs" />
+    <Compile Include="Assets\Scripts\Data\TerrainData.cs" />
+    <Compile Include="Assets\Scripts\Data\TextureData.cs" />
+    <Compile Include="Assets\Scripts\Data\UpdateableData.cs" />
     <Compile Include="Assets\Scripts\EndlessTerrain.cs" />
     <Compile Include="Assets\Scripts\FallOffGenerator.cs" />
     <Compile Include="Assets\Scripts\HideOnPlay.cs" />
