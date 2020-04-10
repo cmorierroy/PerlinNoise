@@ -80,6 +80,7 @@
     <Compile Include="Assets\Scripts\MeshGenerator.cs" />
     <Compile Include="Assets\Scripts\Noise.cs" />
     <Compile Include="Assets\Scripts\TextureGenerator.cs" />
+    <None Include="Assets\Scripts\Terrain.shader" />
     <None Include="Assets\SampleScenes\Shaders\Skybox-Procedural.shader" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>/Users/cedric/Dev/Unity/PerlinNoise/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
